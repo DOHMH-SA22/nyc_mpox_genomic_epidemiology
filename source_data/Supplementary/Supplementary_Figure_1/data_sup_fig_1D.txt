@@ -1,0 +1,5 @@
+lesion_per_site	specimen_ct	Lesion
+1	468	Multiple
+2	133	Multiple
+3	2	Multiple
+4	2	Multiple

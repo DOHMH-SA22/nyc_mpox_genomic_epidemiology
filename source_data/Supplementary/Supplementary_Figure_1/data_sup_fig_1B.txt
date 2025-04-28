@@ -1,0 +1,13 @@
+Borough	Lesion	Count
+Bronx	Multiple	69
+Bronx	Single	55
+Brooklyn	Multiple	85
+Brooklyn	Single	75
+Manhattan	Multiple	107
+Manhattan	Single	153
+Others	Multiple	55
+Others	Single	56
+Queens	Multiple	50
+Queens	Single	50
+Staten Island	Multiple	2
+Staten Island	Single	1

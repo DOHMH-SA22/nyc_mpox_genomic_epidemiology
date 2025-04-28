@@ -1,0 +1,15 @@
+Site	Lesion	Count
+Head	Single	33
+Arm	Single	31
+Trunk	Single	26
+Genital	Single	241
+Buttock	Single	15
+Leg	Single	10
+Undefined	Single	34
+Head	Multiple	78
+Arm	Multiple	82
+Trunk	Multiple	68
+Genital	Multiple	404
+Buttock	Multiple	36
+Leg	Multiple	36
+Undefined	Multiple	44
