@@ -1,0 +1,25 @@
+date_index	Category	count_variable	count
+2022-05-12 to 2022-05-25	Others	Collection_date	3
+2022-05-26 to 2022-06-08	Others	Collection_date	14
+2022-06-09 to 2022-06-22	Distantly Related	Collection_date	2
+2022-06-09 to 2022-06-22	Others	Collection_date	63
+2022-06-23 to 2022-07-06	 Diverged at Root	Collection_date	4
+2022-06-23 to 2022-07-06	Distantly Related	Collection_date	4
+2022-06-23 to 2022-07-06	Others	Collection_date	277
+2022-07-07 to 2022-07-20	 Diverged at Root	Collection_date	18
+2022-07-07 to 2022-07-20	Distantly Related	Collection_date	6
+2022-07-07 to 2022-07-20	Others	Collection_date	328
+2022-07-21 to 2022-08-03	 Diverged at Root	Collection_date	8
+2022-07-21 to 2022-08-03	Distantly Related	Collection_date	4
+2022-07-21 to 2022-08-03	Others	Collection_date	208
+2022-08-04 to 2022-08-17	Others	Collection_date	102
+2022-08-18 to 2022-08-31	 Diverged at Root	Collection_date	2
+2022-08-18 to 2022-08-31	Others	Collection_date	27
+2022-09-01 to 2022-09-14	Others	Collection_date	14
+2022-09-15 to 2022-09-28	Others	Collection_date	9
+2022-09-29 to 2022-10-12	Others	Collection_date	9
+2022-10-13 to 2022-10-26	Others	Collection_date	11
+2022-10-27 to 2022-11-09	Others	Collection_date	2
+2022-11-10 to 2022-11-23	Others	Collection_date	3
+2022-12-22 to 2023-01-04	Others	Collection_date	1
+2023-01-05 to 2023-01-18	Others	Collection_date	5
